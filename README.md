@@ -1,5 +1,5 @@
 # maratona-discover
-Maratona Discover developer
+:man_technologist:Maratona Discover developer
 
 ## Icones
 
