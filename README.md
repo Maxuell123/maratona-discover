@@ -8,6 +8,8 @@
 - :beetle: correção de bug
 - :checkered_flag: release
 
+file:///C:/wamp64/www/maratona-discover/img/max.jpg
+
 
 
 
