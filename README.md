@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Maratona-Discover
 :man_technologist:Maratona Discover developer
 
