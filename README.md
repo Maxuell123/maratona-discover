@@ -8,5 +8,4 @@
 - :beetle: correção de bug
 - :checkered_flag: release
 
-<img align="right" src="./img/max.jpg"/>
 
